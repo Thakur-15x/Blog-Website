@@ -1,6 +1,5 @@
 # Blog-Website
- I create a Multi Pages Blog website.
+ I create a Multi Pages Blog website in Bootstrape.
+ 
 
-# Learning Bootstrape
-It's  my first website in Bootstrape. Hope You Liked it.
 
